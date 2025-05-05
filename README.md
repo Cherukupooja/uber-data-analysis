@@ -7,8 +7,6 @@ This project presents an exploratory data analysis of Uber's aggregated daily su
 ## 📁 Files Included
 - `uber_project.ipynb`: Jupyter Notebook with complete analysis and visualizations
 - `Uber-Jan-Feb-FOIL.csv`: Raw dataset used for analysis
-- `Uber_Analysis_PPT.pptx`: Presentation summarizing insights
-- `Overall_A.png`: Infographic capturing key findings
 
 ## 🎯 Objectives
 - Explore daily, weekday, and monthly trip trends
