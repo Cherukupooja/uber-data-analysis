@@ -32,9 +32,8 @@ Internship at **Unified Mentor**
 📅 Duration: 20-Mar-2025 to 19-Apr-2025
 
 ## 🚀 Live Dashboard (Optional)
-If hosted: [link-to-your-streamlit-app]  
-(Not required but nice if shared via Streamlit Cloud)
+If hosted: [https://github.com/Cherukupooja/uber-data-analysis/blob/main/uber_project.ipynb]  
 
----
+
 
 
